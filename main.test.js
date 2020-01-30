@@ -12,8 +12,10 @@ function double() {
   x = x * 2;
 }
 function triple() {
-  x = x ^3;
+  x = x * 3;
 }
+triple()
+
 function square() {
   x = x **2;
 }
