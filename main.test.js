@@ -14,14 +14,12 @@ function double() {
 function triple() {
   x = x * 3;
 }
-triple()
-
 function square() {
   x = x **2;
 }
 function beingNice() {
-  greeting = greeting + 'hello' + 'Toddra' 
-}
+  greeting = 'hello' + 'Toddra' 
+
 function fullName() {
   fullName = 'not found'
 }
