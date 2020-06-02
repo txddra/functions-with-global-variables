@@ -23,9 +23,10 @@ function square() {
 function beingNice() {
    greeting = 'hello ' + firstName;
 }
-// function fullName() {
-//   fullName = 'not found'
-// }
+
+function fullName() {
+  firstName = 'not found'
+}
 // function phoneCall() {
 //   calling = callEnded
 // } 
