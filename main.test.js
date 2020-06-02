@@ -21,15 +21,16 @@ function square() {
 }
 
 function beingNice() {
-   greeting = 'hello ' + firstName;
+  greeting = 'hello ' + firstName;
 }
 
 function fullName() {
   firstName = 'not found'
 }
-// function phoneCall() {
-//   calling = callEnded
-// } 
+
+function phoneCall() {
+  calling = 'call ended'
+} 
 /*********************************************************************************************************************
 
  * CODE BELOW HERE IS FOR INTERNAL USE ONLY! IT ENSURES THAT THE TESTING *
