@@ -20,9 +20,9 @@ function square() {
   squareTheNumber = squareTheNumber **2;
 }
 
-// function beingNice() {
-//   greeting = 'hello' + 'Toddra' 
-
+function beingNice() {
+   greeting = 'hello ' + firstName;
+}
 // function fullName() {
 //   fullName = 'not found'
 // }
